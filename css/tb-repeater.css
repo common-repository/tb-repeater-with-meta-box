@@ -1,0 +1,10 @@
+.input-box {
+    width: 100%;
+}
+.main-label {
+    margin-bottom: 10px;
+    display: table;
+}
+.inner-repeater-row {
+    margin-bottom: 20px;
+}
